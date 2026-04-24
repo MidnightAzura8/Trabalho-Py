@@ -1,0 +1,5 @@
+# Pede as informações 
+nome = input("Qual seu nome? ")
+idade = input("Qual sua idade? ")
+turma = input("Qual sua turma? ")
+    print(Que belo nome, nome)
